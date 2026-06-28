@@ -42,6 +42,6 @@ This project demonstrates industry-standard backend development practices includ
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/noteit-backend.git
+[git clone https://github.com/yourusername/noteit-backend.git](https://github.com/SAHIL-AHMED5498/Note-It.git)
 cd noteit-backend
 
